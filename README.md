@@ -1,2 +1,2 @@
 # Docker
-Learning, Testing, Devloping Repo 
+Learning, Testing, Developing Repo 
