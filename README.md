@@ -1,11 +1,15 @@
-## Docker Definition and more practical details:
+## Docker Definition and practice details:
 
 :one: Learning
+
 :two: Testing
+
 :three: Deploying
-     * Docker,
-     * Image
-	 * Container
+
+         1 Docker
+         2 Image
+	     3 Container
 	
 @ If more refer to below url-
+
 :atom: https://container.training/
